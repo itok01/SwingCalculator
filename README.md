@@ -1,3 +1,3 @@
 # SwingCalculator
 
-![Demo]("https://raw.githubusercontent.com/itok01/SwingCalculator/master/demo.gif")
+![Demo]("https://github.com/itok01/SwingCalculator/raw/master/demo.gif")
